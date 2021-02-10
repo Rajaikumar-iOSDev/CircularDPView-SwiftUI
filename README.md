@@ -1,4 +1,4 @@
-# CircularDPView-SwiftUI
+# 🖼CircularDPView-SwiftUI
 
 CircularDPView helps you to create a circular view with shadow which you would primariry use for DP alias profile pictures.
 
